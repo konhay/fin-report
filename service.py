@@ -101,7 +101,7 @@ def run():
 
 def runBatch(names=None):
     """
-
+    利润分配表
     :return:
     """
     if names is None:
